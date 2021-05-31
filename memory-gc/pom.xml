@@ -10,6 +10,7 @@
   <packaging>pom</packaging>
   <modules>
     <module>chapter02</module>
+    <module>chapter05</module>
   </modules>
 
   <properties>
