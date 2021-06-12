@@ -8,7 +8,7 @@ import java.util.Set;
  * -XX:PermSize=6m -XX:MaxPermSize=6m -Xms6m -Xmx6m
  *
  * jdk8中：
- * -XX:MetaspaceSize=6m -XX:MaxMetaspaceSize=6m -Xms6m -Xmx6m
+ * -XX:MetaspaceSize=10m -XX:MaxMetaspaceSize=10m -Xms10m -Xmx10m
  * @author shkstart  shkstart@126.com
  * @create 2020  0:36
  */
